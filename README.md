@@ -68,21 +68,6 @@ I crafted a cohesive narrative that guided viewers through these visualizations,
 
 My storytelling approach transformed complex data patterns into strategic insights for investors, entrepreneurs, and policymakers by focusing on the "why" behind the patterns rather than just describing what's visible in the visualizations.
 
-## Original Presentation Script
-
-Here's a sample of my original presentation script that guided viewers through my data story:
-
-### 🟦 View 1: Industry Overview (Tree Map)
-🗣️ *"Let's begin by examining the **distribution of unicorns across industries**. This tree map categorizes unicorn startups by their primary business domain. Instantly, we notice the **significant dominance of sectors like Fintech and Internet Software & Services** — both in the number of companies and their cumulative valuations. But beyond these giants, sectors such as **'E-commerce'** and **'Artificial Intelligence'** are also emerging with strong valuation footprints. Their presence reflects the **diversity of innovation** across the startup space — showing that value creation isn't limited to just a few verticals."*
-
-### 🌍 View 2: Global Map + Heatmap
-🗣️ *"Now, let's shift focus to the **geographic distribution** of unicorns. The global map highlights a striking pattern — **the United States, China, and India** together account for the **vast majority** of unicorns worldwide, contributing to over **70%** of total unicorn activity. This concentration can be attributed to strong economic conditions, extensive consumer markets, and deep venture capital networks in these regions. That said, it's equally important to observe the **growing unicorn activity in other regions**. Countries like the **UK, Germany, and France** are gradually becoming vibrant startup hubs and showing early signs of becoming the next wave of growth, **suggesting that unicorn creation is no longer confined to just a few countries.**"*
-
-### 💬 View 3: Industry Valuation vs Count (Bubble View)
-🗣️ *"This final view adds more depth by comparing unicorn industries across **valuation**, **funding**, and **years to reach unicorn status**. Each bubble here represents an industry — its **size shows valuation**, while its position reflects both **funding levels** and the **average time it took for startups in that sector to reach unicorn status**. Take Fintech, for instance — it leads in both valuation and funding pointing to a high-growth, well-capitalized ecosystem. Now look at Artificial Intelligence. While it has fewer unicorns, it boasts a **high valuation per company** and a **moderately quick time to unicorn**, suggesting strategic, high-efficiency growth. Meanwhile, sectors like Cybersecurity and Health show **longer gestation periods** but **strong returns**, highlighting areas where **longer-term innovation pays off**."*
-
-### 🧠 Final Synthesis
-*"To wrap up, while Fintech and Internet Software dominate in size, sectors like AI and Cybersecurity stand out for delivering higher value per unicorn and faster time to success. Geographically, the **US, China, and India** lead—but emerging players like **France** and the **UK** signal global expansion. The takeaway? The next big unicorns may not just come from big sectors or markets, but from leaner, faster-growing, and globally diverse ecosystems."*
 
 ## Repository Contents
 - `visualizations/`: Screenshots of my Tableau story visualizations
