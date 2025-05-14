@@ -71,9 +71,8 @@ My storytelling approach transformed complex data patterns into strategic insigh
 
 ## Repository Contents
 - `visualizations/`: Screenshots of my Tableau story visualizations
-- `report/`: The final project report showcasing my story component
 - `data/`: Dataset used for analysis
-- `dashboard/`: Dashboards and Story file created
+- `dashboards/`: Dashboards and Story file created
 
 ## Skills Demonstrated
 - **Advanced Data Storytelling**: Transformed complex data patterns into a compelling narrative with clear business implications
